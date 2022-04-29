@@ -1,0 +1,59 @@
+
+#Total{
+    display: inline-block;
+    width: 2120px;
+    
+}
+
+
+/* Inline for Header */
+#Header{
+    display: inline-block;
+    height: 90px;
+}
+
+/* Add a black background color to the Menu */
+.Menu {
+  background-color: #333;
+  overflow: hidden;
+  display:flex;
+    
+}
+
+/* Style the links inside the Menu */
+.Menu a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 30px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+/* Change the color of links on hover */
+.Menu a:hover {
+  color: white;
+}
+
+/* Add a color to the active/current link */
+.Menu a.active {
+  /* background-color: #04AA6D; */
+  color: white;
+}
+
+.Content_2_left{
+    float: left;
+}
+
+.Content_2_right{
+    float: left;
+}
+
+.Content_3{
+    float: left;
+}
+
+.Content_5{
+  display: flex;
+  justify-content: center;
+}
