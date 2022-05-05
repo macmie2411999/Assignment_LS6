@@ -2,7 +2,7 @@
 #Total{
     display: inline-block;
     width: 2120px;
-    
+    zoom: 67%;
 }
 
 
@@ -17,7 +17,6 @@
   background-color: #333;
   overflow: hidden;
   display:flex;
-    
 }
 
 /* Style the links inside the Menu */
